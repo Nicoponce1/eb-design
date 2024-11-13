@@ -1,1 +1,1 @@
-# eb-design
+# web-design ex1
